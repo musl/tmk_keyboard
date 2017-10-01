@@ -89,8 +89,8 @@ const uint16_t PROGMEM fn_actions[] = {
   /*
    * Tap / Hold Keys
    */
-  [20] = ACTION_MODS_TAP_KEY(MOD_LCTL, KC_ENTER),
-  [21] = ACTION_MODS_TAP_KEY(MOD_LALT, KC_ESC),
+  [20] = ACTION_MODS_TAP_KEY(MOD_LALT, KC_ESC),
+  [21] = ACTION_MODS_TAP_KEY(MOD_LCTL, KC_ENTER),
 
   /*
    * Bootloader
